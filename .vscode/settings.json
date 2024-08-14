@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.quoteProps": "as-needed",
+  "eslint.ignoreUntitled": true,
+  "eslint.validate": ["javascript"],
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.organizeImports": "always",
+    "source.sortMembers": "always"
+  }
+}
